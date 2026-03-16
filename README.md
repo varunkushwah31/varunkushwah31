@@ -13,17 +13,17 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 🔭 I'm a **Java Backend Developer** from 🇮🇳 India
-- 🌱 Currently learning **Spring & Spring Boot**
-- 💬 Ask me about **Java, REST APIs, Microservices**
-- 📫 Reach me at **varun.kush3@gmail.com**
-- ⚡ Fun fact: I love solving problems on LeetCode!
+-  I'm a **Java Backend Developer** from 🇮🇳 India
+-  Currently learning **Spring & Spring Boot**
+-  Ask me about **Java, REST APIs, Microservices**
+-  Reach me at **varun.kush3@gmail.com**
+-  Fun fact: I love solving problems on LeetCode!
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://twitter.com/varunkushw79277" target="_blank">
@@ -42,31 +42,31 @@
 
 ---
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
-### ☕ Core
+###  Core
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,maven" />
 </p>
 
-### 🗄️ Databases
+###  Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 </p>
 
-### ☁️ DevOps & Cloud
+###  DevOps & Cloud
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,kafka" />
 </p>
 
-### 🌐 Frontend & Tools
+###  Frontend & Tools
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,git,postman" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varunkushwah31&show_icons=true&theme=tokyonight&locale=en&hide_border=true" width="48%" alt="GitHub Stats" />
